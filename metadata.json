@@ -1,0 +1,5 @@
+{
+  "name": "Worklog App",
+  "description": "A site-centric worklog application for construction sites. Features daily log input, site management, document tracking, and status workflow (Draft/Request/Approve). Designed for simplicity and efficiency.",
+  "requestFramePermissions": []
+}
